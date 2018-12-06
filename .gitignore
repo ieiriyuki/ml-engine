@@ -1,0 +1,11 @@
+.*
+!.gitignore
+!.dockerignore
+
+/data/profile/*.html
+/data/profile/*.json
+/data/prepared/alignmented_data*.csv
+train_*.csv
+valid_*.csv
+
+__pycache__

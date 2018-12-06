@@ -1,0 +1,14 @@
+artifact_uri: /airflow/dags/mlruns/0/50a42b394f1d4b02bf43856308172cd6/artifacts
+end_time: 1544067291119
+entry_point_name: ''
+experiment_id: 0
+lifecycle_stage: active
+name: ''
+run_uuid: 50a42b394f1d4b02bf43856308172cd6
+source_name: src/train.py
+source_type: 4
+source_version: e723119b4bffe56c4cd3518442fea0bc3ad09785
+start_time: 1544067290626
+status: 3
+tags: []
+user_id: root

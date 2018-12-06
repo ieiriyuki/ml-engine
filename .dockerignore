@@ -1,0 +1,4 @@
+data/profile/*.html
+data/profile/*.json
+src/__pycache__
+Dockerfile
